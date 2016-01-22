@@ -1,7 +1,7 @@
 {
   "name": "selenium-chrome",
   "version": "0.0.0",
-  "description": "no need to custom install chrome web driver",
+  "description": "removes the need to manually install chrome driver for selenium",
   "main": "index.js",
   "dependencies": {
     "detect-node": "^2.0.3",
@@ -18,5 +18,13 @@
     "testing"
   ],
   "author": "Moshe Kolodny",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodny/selenium-chrome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/selenium-chrome/issues"
+  },
+  "homepage": "https://github.com/kolodny/selenium-chrome#readme"
 }
