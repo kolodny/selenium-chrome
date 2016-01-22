@@ -1,0 +1,22 @@
+{
+  "name": "selenium-chrome",
+  "version": "0.0.0",
+  "description": "no need to custom install chrome web driver",
+  "main": "index.js",
+  "dependencies": {
+    "detect-node": "^2.0.3",
+    "request": "^2.67.0",
+    "unzip": "^0.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium",
+    "chrome",
+    "testing"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT"
+}
